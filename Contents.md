@@ -1,4 +1,4 @@
-<center>Contents</center>
+<center><strong>Contents</strong></center>
 
 1. Document Information
    1.1 Revision History
