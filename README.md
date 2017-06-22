@@ -1,13 +1,14 @@
-# DatasheetMpu6500CN
-translation of mpu6500 datasheet.
+# Datasheet
+translation of IMU datasheet.
 
 begining：20170419
 
+## DEVICE:
 
-
-- contributors 
+- Mpu6500（**暂停**）
+- LSM303D
+## contributors 
   - Abel
   - Jessie
-
 
 
