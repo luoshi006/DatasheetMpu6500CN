@@ -1,5 +1,7 @@
 <center><strong>Contents</strong></center>
 
+0. Preface
+
 1. Block diagram and pin description
 2. Module specifications
 3. Terminology
